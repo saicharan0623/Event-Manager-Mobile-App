@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406408267256",
+    "project_id": "madprojectevents",
+    "storage_bucket": "madprojectevents.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406408267256:android:b16876ba2f82e20d4ec20d",
+        "android_client_info": {
+          "package_name": "com.example.madproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv-wACMnIS-bovCF_Ct-ohwxzD4H-bdp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
